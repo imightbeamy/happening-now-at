@@ -19,12 +19,13 @@ app.use(logfmt.requestLogger());
 app.get('/', function(req, res) {
 
   var now = moment().zone(7);
+//  var now = moment([2014,2,13,11,36]).zone(7);
 
   function isComingUp(e) {
     if (e.start && e.end) {
       var start_diff = now.diff(e.start.getTime(), 'minute'),
       end_diff   = now.diff(e.end.getTime(), 'minute');
-      return  start_diff < 30 && start_diff > -60 && end_diff < 0;
+      return  start_diff < 30 && start_diff > -60 && end_diff < -10;
     }
     return false;
   }
