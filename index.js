@@ -1,3 +1,5 @@
+process.env.TZ = "America/Los_Angeles";
+
 var ical = require('ical');
 var _ = require('underscore');
 var mustache = require('mustache');
