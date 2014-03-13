@@ -13,9 +13,13 @@
 		a {
 			color: #000;
 		}
-		h1 {
+		h1, .share {
 			text-align: center;
 			color: #00B3B2;
+		}
+		img {
+			display: block;
+			margin: auto;
 		}
 		p, h2 {
 			margin: 5px 0;
@@ -51,5 +55,9 @@
 	{{^ events }}
 		<div><h2>Nothing going on right now :(</h2></div>
 	{{/ events }}
+	<p class="share">
+		Share the love!
+		<img src="http://qr.papers.ch/gen.php?data=http%3A//right-now-at-fluent.herokuapp.com/" />
+	</p>
 </body>
 </html>
