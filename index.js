@@ -16,7 +16,7 @@ app.use(logfmt.requestLogger());
 
 app.get('/', function(req, res) {
 
-  var now = moment([2014, 2, 13, 10, 20]);
+  var now = moment();
 
   function isComingUp(e) {
     if (e.start && e.end) {

@@ -48,5 +48,8 @@
 			<p class="room">{{ start_time }} in {{ room }}</p>
 		</div>
 	{{/ events }}
+	{{^ events }}
+		<div><h2>Nothing going on right now :(</h2></div>
+	{{/ events }}
 </body>
 </html>
