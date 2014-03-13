@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+	<meta name="viewport" content="width=device-width">
 	<title>Right now at Fluent</title>
 	<style type="text/css">
 		body {
@@ -16,6 +16,9 @@
 		h1, .share {
 			text-align: center;
 			color: #00B3B2;
+		}
+		span {
+			white-space: nowrap;
 		}
 		img {
 			display: block;
@@ -45,7 +48,7 @@
 	</style>
 </head>
 <body>
-	<h1>Right now at Fluent ({{ current_time }})</h1>
+	<h1>Right now at Fluent <span>({{ current_time }})</span></h1>
 	{{# events }}
 		<div class="{{ time_class }}"> 
 			<h2><a href="{{ url }}">{{ title }}</a></h2>
