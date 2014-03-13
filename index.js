@@ -36,6 +36,7 @@ app.get('/', function(req, res) {
   events = _.map(events, function(e) {
     return {
       start_time: moment(e.start).format('LT'),
+      end_time: moment(e.end).format('LT'),
       room: e.location,
       description: e.description,
       title: e.summary,
