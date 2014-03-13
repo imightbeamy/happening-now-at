@@ -1,0 +1,1524 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Fluent 2014 Public Schedule
+VERSION:2.0
+PRODID:Expectnation
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T103000
+DTSTART;TZID=US/Pacific:20140311T090000
+DTSTAMP:20140312T210840
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32532
+UID:http://fluentconf.com/fluent2014--s2014-03-11-09:00--32532
+SUMMARY:Automate All the Front-End Things!
+DESCRIPTION:Presented by Kitt Hodsden (CodingClan LLC). 90-Minutes: Fron
+ t end development is harder than ever! Differing screen resolutions, cha
+ nging browser support, varying network speeds and other considerations a
+ ll jockeying for our attention during development. Fortunately, we have 
+ more powerful tools to help us develop, test and refine the amazing site
+ s we build!  Let's use those tools to automate all the front-end dev thi
+ ngs...
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T123000
+DTSTART;TZID=US/Pacific:20140311T110000
+DTSTAMP:20140312T190116
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32650
+UID:http://fluentconf.com/fluent2014--s2014-03-11-11:00--32650
+SUMMARY:WebRTC: Realtime Communication for Everyone
+DESCRIPTION:Presented by Lisa Larson-Kelley (LearnFromLisa.com). 90-Minu
+ tes: WebRTC is a powerful open-source project that enables real-time com
+ munication (RTC)– baked right into modern web browsers. This means you c
+ an now incorporate video, voice and data sharing using peer-to-peer conn
+ ectivity via simple JavaScript APIs, with no plugins or additional insta
+ lls. This session will introduce the fundamentals of WebRTC and get you 
+ started building a simple...
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T151500
+DTSTART;TZID=US/Pacific:20140311T134500
+DTSTAMP:20140312T210928
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31818
+UID:http://fluentconf.com/fluent2014--s2014-03-11-13:45--31818
+SUMMARY:Attacking Web Applications
+DESCRIPTION:Presented by Sasha Goldshtein (Sela Group). In this session 
+ we'll review common attacks on web applications: SQL injection, cross-si
+ te scripting (XSS), broken authentication, cross-site request forgery, i
+ nformation disclosure, and insecure password storage.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T171500
+DTSTART;TZID=US/Pacific:20140311T154500
+DTSTAMP:20140312T211008
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31870
+UID:http://fluentconf.com/fluent2014--s2014-03-11-15:45--31870
+SUMMARY:JavaScript Smackdown! Choosing Your MVC between Angular, Ember, 
+ and Backbone
+DESCRIPTION:Presented by Brian Holt (reddit). 90-Minutes: Choosing an MV
+ C framework for you next project is a daunting task; there are so many o
+ ptions with fervent supporters that it seems there is no one exclusively
+  right path. This workshop won't be a pitch for any one of them: it aims
+  to give you context for each of the three frameworks so that you can ma
+ ke your own informed decision when you look to choose the framework righ
+ t for your...
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T114500
+DTSTART;TZID=US/Pacific:20140313T111500
+DTSTAMP:20140227T221848
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32395
+UID:http://fluentconf.com/fluent2014--s2014-03-13-11:15--32395
+SUMMARY:The Secrets of React's Virtual DOM
+DESCRIPTION:Presented by Pete Hunt (Facebook / Instagram). At Facebook a
+ nd Instagram, we’re trying to push the limits of what’s possible on the 
+ web with React. My talk will start with a brief introduction to React an
+ d then dive into three controversial topics: Throwing out the notion of 
+ templates and building views with JavaScript, “re-rendering” your entire
+  application when your data changes, and a lightweight implementation of
+  the DOM and events.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T123000
+DTSTART;TZID=US/Pacific:20140313T120000
+DTSTAMP:20131120T233308
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31823
+UID:http://fluentconf.com/fluent2014--s2014-03-13-12:00--31823
+SUMMARY:The Mindblowing Power of Sass 3.3
+DESCRIPTION:Presented by Chris Eppstein (Caring.com). Overview of all th
+ e new features of Sass 3.3 and how they can be used to supercharge your 
+ stylesheets by one of the creators of Sass.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T140000
+DTSTART;TZID=US/Pacific:20140313T133000
+DTSTAMP:20131120T233315
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32724
+UID:http://fluentconf.com/fluent2014--s2014-03-13-13:30--32724
+SUMMARY:Meteor: A Full-stack JavaScript Framework for Modern App Develop
+ ment
+DESCRIPTION:Presented by Matt DeBergalis (Meteor). Meteor is a distribut
+ ion of open-source packages that makes it radically faster to build mode
+ rn apps. All the parts are there: a reactive template engine, powerful d
+ ata synchronization primitives, a standard wire protocol, and a database
+  API that works the same on both the client and the server. This talk wi
+ ll demonstrate making an app from scratch, showing how it all fits toget
+ her.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T144500
+DTSTART;TZID=US/Pacific:20140313T141500
+DTSTAMP:20140310T220144
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32640
+UID:http://fluentconf.com/fluent2014--s2014-03-13-14:15--32640
+SUMMARY:Asynchronous Promises
+DESCRIPTION:Presented by Kris Kowal (MontageJS). A promise is a proxy fo
+ r an eventual result, like an asynchronous version of return or throw, b
+ ut they can also pipeline messages asynchronously to and from remote obj
+ ects. A Promise type will likely be in ECMAScript 6, and many modern lib
+ raries use them already. In this talk, I will bring you up to speed with
+  what they are and what you can do with them today…and what they “promis
+ e” for tomorrow.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T114500
+DTSTART;TZID=US/Pacific:20140312T111500
+DTSTAMP:20140312T210605
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31642
+UID:http://fluentconf.com/fluent2014--s2014-03-12-11:15--31642
+SUMMARY:Polymer: Web Components in Action
+DESCRIPTION:Presented by Eric Bidelman (Google). Web Components make web
+  development fun again! Learn how to use Polymer and its UI components t
+ o create beautify component-based applications. Let's bring composabilit
+ y, reusability, and maintainability to the web.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T123000
+DTSTART;TZID=US/Pacific:20140312T120000
+DTSTAMP:20140312T210821
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32527
+UID:http://fluentconf.com/fluent2014--s2014-03-12-12:00--32527
+SUMMARY:Design Strategies for JavaScript API
+DESCRIPTION:Presented by Ariya Hidayat (Shape Security). The quality of 
+ modular web applications can be improved by having the right set of APIs
+ . This talk highlights the recent API design best practices, from using 
+ static polymorphism for consistent naming, preventing dangerous convenie
+ nce (e.g. Boolean trap), and avoiding unreadable code due to confusing s
+ emantics. Real-world examples and automated tools to recognize bad API w
+ ill be shown as well.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T140000
+DTSTART;TZID=US/Pacific:20140312T133000
+DTSTAMP:20140312T210648
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32610
+UID:http://fluentconf.com/fluent2014--s2014-03-12-13:30--32610
+SUMMARY:Managing JavaScript Complexity in Teams
+DESCRIPTION:Presented by Jarrod Overson (Riot Games). Learn what tools e
+ xist to assess and visualize JavaScript complexity and learn how to mana
+ ge ever enlarging codebases. There are loads of tools out now that go a 
+ long way to managing your code (and other's) so you have more time to de
+ al with what is important. Learn how to make the best of them.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T144500
+DTSTART;TZID=US/Pacific:20140312T141500
+DTSTAMP:20131120T232546
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32587
+UID:http://fluentconf.com/fluent2014--s2014-03-12-14:15--32587
+SUMMARY:Assert Accessible: Automated Testing for Accessibility with Java
+ Script
+DESCRIPTION:Presented by Alice Boxhall (Google), Cameron Cundiff (Pivota
+ l Labs). Testing accessibility can be any or all of slow, expensive and 
+ frustrating, but it doesn’t have to be. Open source accessibility testin
+ g tools can help you find issues in a timely and useful way.  Accessibil
+ ity Developer Tools is a JavaScript library for automated accessibility 
+ testing of the DOM. We'll discuss how it works, and how it makes it easi
+ er for developers to test for accessibility.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T153000
+DTSTART;TZID=US/Pacific:20140312T150000
+DTSTAMP:20131212T183624
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33114
+UID:http://fluentconf.com/fluent2014--s2014-03-12-15:00--33114
+SUMMARY:Static Types are Overrated: The Dynamic Duo - Loose Types and Ob
+ ject Extension
+DESCRIPTION:Presented by Eric Elliott (Adobe). * how loose typing makes 
+ generic functions easier * how generic functions are better for code reu
+ se and functional programming * how object extension makes inheritance e
+ asier  * novel uses for dynamic objects, including a flexible, less erro
+ r-prone alternative to switch / case
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T174500
+DTSTART;TZID=US/Pacific:20140312T171500
+DTSTAMP:20131120T232622
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32518
+UID:http://fluentconf.com/fluent2014--s2014-03-12-17:15--32518
+SUMMARY:Everything is a Polyfill: Automate Deleting Code for Front End P
+ erformance
+DESCRIPTION:Presented by Rachel Myers (GitHub), Emily Nakashima (GitHub)
+ . Successful applications often get slow because they include *all the c
+ ode* - even if it isn't needed for a particular client or in the given c
+ ircumstances. Embracing module loading tools (like Require.js) creates s
+ maller, faster, cleaner applications. We'll talk about how to extend thi
+ s paradigm to all the components of our app for better performance and m
+ aintainability.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T170000
+DTSTART;TZID=US/Pacific:20140312T163000
+DTSTAMP:20131120T232611
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32688
+UID:http://fluentconf.com/fluent2014--s2014-03-12-16:30--32688
+SUMMARY:Roll Your Own Multiplayer Game Console with Node, Socket.IO, and
+  Common Handheld Devices
+DESCRIPTION:Presented by Kent Brewster (Pinterest). Yesterday at Yahoo's
+  third Sunnyvale Hack Day I built and demonstrated a many-player game, u
+ sing node.js, socket.io, and as many handheld devices as were willing to
+  sign in. Here's how I did it, and how you can play too!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T160000
+DTSTART;TZID=US/Pacific:20140313T153000
+DTSTAMP:20131120T233332
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32485
+UID:http://fluentconf.com/fluent2014--s2014-03-13-15:30--32485
+SUMMARY:Unpacking Technical Decisions
+DESCRIPTION:Presented by Sarah Mei (Ministry of Velocity). Every day, we
+  make hundreds of small technical decisions: what's the best way to impl
+ ement this? Where should this function live? Less often, we make a large
+ r decision: would a different framework make us more productive? Should 
+ we rewrite the whole thing in C? We'd all like to make better decisions,
+  at all of these scales. Let's unpack the decision-making process and se
+ e what we can extract.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T164500
+DTSTART;TZID=US/Pacific:20140313T161500
+DTSTAMP:20131120T233339
+LOCATION:Salon 8
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31758
+UID:http://fluentconf.com/fluent2014--s2014-03-13-16:15--31758
+SUMMARY:Designing for Front-End Page Speed
+DESCRIPTION:Presented by Lara Swanson (Etsy). Good page load time begins
+  with good design. As web performance grows in importance in the industr
+ y, many page speed tutorials focus on the back end. This presentation fo
+ cuses on performance from a design and front end perspective.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T123000
+DTSTART;TZID=US/Pacific:20140311T090000
+DTSTAMP:20140312T174817
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31617
+UID:http://fluentconf.com/fluent2014--s2014-03-11-09:00--31617
+SUMMARY:Build a Real Website with Node and Express.js
+DESCRIPTION:Presented by Eric (Ray) Villalobos (Lynda.com). Most tutoria
+ ls for learning node.js focus on building chat rooms & small application
+ s, but what if you are interested in building real websites using server
+  side javascript? Express.js is a framework for building websites & apps
+  on top of Node.js. In this workshop we will focus on learning a workflo
+ w using Express.js and launch a website using grunt.js, express.js, node
+ .js git, heroku.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T171500
+DTSTART;TZID=US/Pacific:20140311T134500
+DTSTAMP:20140312T190144
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31793
+UID:http://fluentconf.com/fluent2014--s2014-03-11-13:45--31793
+SUMMARY:AngularJS Fundamentals
+DESCRIPTION:Presented by Mark Bates (Meta42 Labs, LLC). 3-Hours: In thre
+ e hours participants will go from zero knowledge of AngularJS to being a
+ ble to write full and complex AngularJS apps.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T114500
+DTSTART;TZID=US/Pacific:20140313T111500
+DTSTAMP:20140225T034158
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35452
+UID:http://fluentconf.com/fluent2014--s2014-03-13-11:15--35452
+SUMMARY:HTML Form Elements and Attributes
+DESCRIPTION:Presented by Estelle Weyl (Standardista.com). HTML forms hav
+ e been the bane of web developers for years. Not anymore! With HTML5 you
+  may learn to love forms. Browsers now enable you to provide users with 
+ rich date GUIs, validate forms and provide validation feedback without J
+ avaScript. JavaScript-free placeholder text, pattern matching, required 
+ fields, auto focus, error handling is now a reality.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T123000
+DTSTART;TZID=US/Pacific:20140313T120000
+DTSTAMP:20131120T233355
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32484
+UID:http://fluentconf.com/fluent2014--s2014-03-13-12:00--32484
+SUMMARY:Introduction to ExpressJS
+DESCRIPTION:Presented by Guy Ellis (GoDaddy). Learn how to use the Expre
+ ssJS framework to select the right structure and paradigm for your NodeJ
+ S application. You will leave this presentation with the knowledge to im
+ mediately build a well structured ExpressJS web application.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T140000
+DTSTART;TZID=US/Pacific:20140313T133000
+DTSTAMP:20131120T233420
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32397
+UID:http://fluentconf.com/fluent2014--s2014-03-13-13:30--32397
+SUMMARY:Frames Per Second
+DESCRIPTION:Presented by Paul Bakaus (Google). If you want to get your b
+ rain stuffed with every bit of info on runtime perf, then this is your t
+ alk. In-depth information on how many frames the human eye can process, 
+ differences between refresh rates and frame rates, motion blur, jitter, 
+ responsiveness, input lag and hands-on advice on profiling and debugging
+ , all obviously from a games perspective, but applicable to all web deve
+ lopment.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T144500
+DTSTART;TZID=US/Pacific:20140313T141500
+DTSTAMP:20131120T233428
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31781
+UID:http://fluentconf.com/fluent2014--s2014-03-13-14:15--31781
+SUMMARY:AngularJS - Top 10 Tips
+DESCRIPTION:Presented by John Lindquist (JetBrains). Come learn the top 
+ AngularJS tips to improve your workflow and enhance your AngularJS exper
+ ience. John will talk about "Best Practices", debatable approaches, and 
+ code smells that he's found from teaching and training on AngularJS sinc
+ e it hit 1.0.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T114500
+DTSTART;TZID=US/Pacific:20140312T111500
+DTSTAMP:20140312T210254
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32401
+UID:http://fluentconf.com/fluent2014--s2014-03-12-11:15--32401
+SUMMARY:Leveling Up in Angular
+DESCRIPTION:Presented by Alicia Liu (Lift.do). After you've developed th
+ at first demo app using the Angular JavaScript framework, now what? This
+  presentation covers patterns and strategies for developing more complex
+  apps using Angular, avoiding pitfalls, and how to write your own direct
+ ives and components the "Angular Way".
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T123000
+DTSTART;TZID=US/Pacific:20140312T120000
+DTSTAMP:20140312T203259
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33816
+UID:http://fluentconf.com/fluent2014--s2014-03-12-12:00--33816
+SUMMARY:Interface Design Considerations for Data Visualization
+DESCRIPTION:Presented by Scott Murray (University of San Francisco). Thi
+ s talk will illustrate the design process behind Kindred Britain (kindre
+ d.stanford.edu), an interactive network visualization and digital humani
+ ties project, made with Nicholas Jenkins and Elijah Meeks of Stanford Un
+ iversity.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T140000
+DTSTART;TZID=US/Pacific:20140312T133000
+DTSTAMP:20140312T211250
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32540
+UID:http://fluentconf.com/fluent2014--s2014-03-12-13:30--32540
+SUMMARY:Responsive Web Design with @viewport and Other New CSS Features
+DESCRIPTION:Presented by Andreas Bovens (Opera Software). In this talk, 
+ I will look at two of the technologies that lie at the basis of responsi
+ ve web design: the viewport meta tag and CSS media queries. I will expla
+ in how viewport is being standardized as @viewport, and how many other n
+ ew features in CSS, such as the resolution media query, object-fit, rela
+ tive length units etc., can be used to create even more compelling respo
+ nsive designs.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T144500
+DTSTART;TZID=US/Pacific:20140312T141500
+DTSTAMP:20131217T190027
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32646
+UID:http://fluentconf.com/fluent2014--s2014-03-12-14:15--32646
+SUMMARY:In Pursuit of the Holy Grail: Building Isomorphic JavaScript App
+ s
+DESCRIPTION:Presented by Spike Brehm (Airbnb). While the client-side Jav
+ aScript app approach can provide snappy, interactive UIs, it presents ch
+ allenges, including initial page-load performance, SEO, and duplication 
+ of application logic between client and server. Let's explore the buddin
+ g community around isomorphic JavaScript apps and the tools and librarie
+ s you can use to run your app on the client and server with a single cod
+ ebase.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T153000
+DTSTART;TZID=US/Pacific:20140312T150000
+DTSTAMP:20131120T232833
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32503
+UID:http://fluentconf.com/fluent2014--s2014-03-12-15:00--32503
+SUMMARY:Developing Web Graphics with WebGL
+DESCRIPTION:Presented by Tony Parisi (Skybox). WebGL's hardware-accelera
+ ted 3D rendering enables the creation of high-performance, visually stun
+ ning web content for advertising, entertainment, e-commerce, and social 
+ media.  This session covers the basics of developing web graphics using 
+ WebGL. Topics include rendering, animation, interactivity, behaviors, an
+ d integrating 3D into HTML5 pages using open source WebGL libraries.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T174500
+DTSTART;TZID=US/Pacific:20140312T171500
+DTSTAMP:20131125T210958
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32673
+UID:http://fluentconf.com/fluent2014--s2014-03-12-17:15--32673
+SUMMARY:jQuery-free JavaScript
+DESCRIPTION:Presented by Elijah Manor (The Lampo Group). Do you still ne
+ ed jQuery? Has it become a crutch? Can you get away with dropping jQuery
+  as a dependency and use native browser APIs instead? For the majority o
+ f this session we will be looking at common jQuery snippets and show how
+  to convert them either using native browser APIs or utilizing popular m
+ icro-libraries.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T170000
+DTSTART;TZID=US/Pacific:20140312T163000
+DTSTAMP:20131216T210805
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33116
+UID:http://fluentconf.com/fluent2014--s2014-03-12-16:30--33116
+SUMMARY:Inside JavaScript Execution
+DESCRIPTION:Presented by Chase Douglas (New Relic). Have you ever wonder
+ ed how JavaScript runtime engines actually execute your code? JavaScript
+  as a language has many interesting facets and features, and this has le
+ d to innovative techniques for executing code efficiently. Learn all abo
+ ut how modern runtime engines work, and hopefully gain some insight on h
+ ow you can better leverage the language for your projects.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T160000
+DTSTART;TZID=US/Pacific:20140313T153000
+DTSTAMP:20131122T030135
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31693
+UID:http://fluentconf.com/fluent2014--s2014-03-13-15:30--31693
+SUMMARY:AngularJS And The Computer Science Of JavaScript
+DESCRIPTION:Presented by Burke Holland (Kendo UI). An introduction to An
+ gularJS directives, and how the imperative approach lives on, but behind
+  the scenes of a declarative and powerful DOM.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T164500
+DTSTART;TZID=US/Pacific:20140313T161500
+DTSTAMP:20140310T220314
+LOCATION:Salon 9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32687
+UID:http://fluentconf.com/fluent2014--s2014-03-13-16:15--32687
+SUMMARY:Functional Programming Patterns for the Non-Mathematician
+DESCRIPTION:Presented by Brian Lonsdorf (loop/recur). Abstractions in FP
+  can be daunting if you're not familiar with set theory or lambda calcul
+ us or category theory & all that. I'm certainly not. I'll translate some
+  of the most important functional patterns & interfaces in JS directed t
+ owards us object orienters who may not have majored in math. You'll leav
+ e with a killer toolset and you'll weep at the beauty...if you have a he
+ art.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T123000
+DTSTART;TZID=US/Pacific:20140311T090000
+DTSTAMP:20140312T210905
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31622
+UID:http://fluentconf.com/fluent2014--s2014-03-11-09:00--31622
+SUMMARY:Web Components in Action
+DESCRIPTION:Presented by Michael Bleigh (Divshot). 3-Hours: Web Componen
+ ts are the building blocks of tomorrow's web applications, but you can s
+ tart working with them today. Learn about how the various pieces of the 
+ spec work together to create awesome, reusable, and well-encapsulated co
+ mponents and put it into practice today using Google's Polymer library.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T171500
+DTSTART;TZID=US/Pacific:20140311T134500
+DTSTAMP:20140312T174714
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32586
+UID:http://fluentconf.com/fluent2014--s2014-03-11-13:45--32586
+SUMMARY:Creating Interactives with D3.js
+DESCRIPTION:Presented by John Williams (NewCity Media, Inc.). 3-Hours: T
+ his workshop will introduce you to the basics of the D3 library. D3 lets
+  you create rich, custom interactive pieces driven by data, but the lear
+ ning curve can be difficult to navigate. We'll cover the fundamental con
+ cepts of the library as well as SVG–the most common illustration tool fo
+ r D3–and enough functional programming to get by.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T203000
+DTSTART;TZID=US/Pacific:20140311T190000
+DTSTAMP:20140312T174001
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32919
+UID:http://fluentconf.com/fluent2014--s2014-03-11-19:00--32919
+SUMMARY:Ignite Fluent
+DESCRIPTION:If you had five minutes on stage what would you say? Would y
+ ou talk about your latest passion? Describe the trip of a lifetime? Teac
+ h a hack? We'll find out in this high-energy, fast-paced, technology sho
+ w-and-tell. Speakers are limited to 20 slides, which automatically advan
+ ce after 15 seconds—that’s the fun of Ignite!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T114500
+DTSTART;TZID=US/Pacific:20140313T111500
+DTSTAMP:20131120T233548
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32713
+UID:http://fluentconf.com/fluent2014--s2014-03-13-11:15--32713
+SUMMARY:Invisible Visualization: Accessible Information Graphics on the 
+ Web
+DESCRIPTION:Presented by Doug Schepers (W3C). Data visualizations is inc
+ reasingly popular. This talk will cover well-known challenges and pitfal
+ ls for accessible data visualization, and describe techniques to overcom
+ e them, and even to enhance accessibility by using Web solutions like SV
+ G, HTML, ARIA, and the Web Audio API and Web Speech API.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T123000
+DTSTART;TZID=US/Pacific:20140313T120000
+DTSTAMP:20131120T233555
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32357
+UID:http://fluentconf.com/fluent2014--s2014-03-13-12:00--32357
+SUMMARY:Performance Tips when Developing with jQuery Mobile
+DESCRIPTION:Presented by Ralph Whitbeck (appendTo, LLC). jQuery Mobile i
+ s one of the easiest ways to create a mobile site today. Mobile developm
+ ent brings performance to the forefront. We’ll explore a few ways to get
+  the most out of jQuery Mobile and your site. These tips were used in bu
+ ilding a conference mobile site, which was built with performance in min
+ d. We’ll learn how to make jQuery Mobile fast on any device.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T140000
+DTSTART;TZID=US/Pacific:20140313T133000
+DTSTAMP:20131120T233624
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32690
+UID:http://fluentconf.com/fluent2014--s2014-03-13-13:30--32690
+SUMMARY:Supercharge Your Mobile Emails
+DESCRIPTION:Presented by Lee Mallabone (LinkedIn). Email consumption on 
+ mobile devices is growing at an unprecedented rate, and the HTML capabil
+ ities of those devices is a step-change from their desktop counterparts.
+  This talk will demo some lessons learned building delightful mobile exp
+ eriences at LinkedIn, and present specific HTML & CSS3 authoring techniq
+ ues for creating remarkable best-in-class mobile emails.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T144500
+DTSTART;TZID=US/Pacific:20140313T141500
+DTSTAMP:20131120T233640
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32723
+UID:http://fluentconf.com/fluent2014--s2014-03-13-14:15--32723
+SUMMARY:UX Research Methods for API Design
+DESCRIPTION:Presented by Jeremiah Lee (Fitbit). The field of user experi
+ ence has proven in the last decade how research methodologies can signif
+ icantly improve the usability, intuitability, and enjoyment of products.
+  Yet API design is dominated by discussion of how one technology (HTTP) 
+ is most purely applied (REST/Hypermedia). User research and testing can 
+ elevate the level of design for APIs. I will present strategies for buil
+ ding great APIs.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T114500
+DTSTART;TZID=US/Pacific:20140312T111500
+DTSTAMP:20140312T190048
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32481
+UID:http://fluentconf.com/fluent2014--s2014-03-12-11:15--32481
+SUMMARY:Media APIs for the Web
+DESCRIPTION:Presented by Chris Wilson (Google). We've all come to expect
+  audio, video and realtime communication from apps, games and sites – on
+  all our devices.   This session will help you build dynamic, multi-devi
+ ce web applications using video, WebRTC, Web Audio and more. We show you
+  how to maximise performance, avoid common gotchas, and deliver great ex
+ periences on mobile and desktop, using powerful new media APIs.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T123000
+DTSTART;TZID=US/Pacific:20140312T120000
+DTSTAMP:20140312T210527
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32557
+UID:http://fluentconf.com/fluent2014--s2014-03-12-12:00--32557
+SUMMARY:Technical and Social Progress Toward ECMAScript 6 at Facebook
+DESCRIPTION:Presented by Ben Newman (Facebook). At Facebook we take the 
+ future of JavaScript seriously, and we go to great lengths to accelerate
+  the adoption of new language features both within the company and witho
+ ut. Join us for a close look at some of our techniques for transpiling, 
+ desugaring, refactoring, and otherwise improving a very large JavaScript
+  codebase.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T140000
+DTSTART;TZID=US/Pacific:20140312T133000
+DTSTAMP:20140312T204600
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32526
+UID:http://fluentconf.com/fluent2014--s2014-03-12-13:30--32526
+SUMMARY:Callable Entities in ECMAScript 6
+DESCRIPTION:Presented by Axel Rauschmayer (2ality consulting). Functions
+  in ECMAScript 5 are mostly replaced by new callable entities in ECMAScr
+ ipt 6: arrow functions, classes and method definitions. This talk explai
+ ns how they work and what existing problems they fix.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T144500
+DTSTART;TZID=US/Pacific:20140312T141500
+DTSTAMP:20131120T233002
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32381
+UID:http://fluentconf.com/fluent2014--s2014-03-12-14:15--32381
+SUMMARY:Where's My Straw?
+DESCRIPTION:Presented by Kyle Simpson (Getify Solutions). What does a dr
+ ive-thru have to teach us about optimizing tools and processes?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T153000
+DTSTART;TZID=US/Pacific:20140312T150000
+DTSTAMP:20131120T233010
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31737
+UID:http://fluentconf.com/fluent2014--s2014-03-12-15:00--31737
+SUMMARY:So Easy A Child Could Do It
+DESCRIPTION:Presented by Kathryn Rotondo (Freelance). Young children pla
+ ying with mobile devices don’t have a preconceived idea of what it means
+  to tap, or swipe, or talk into the mic, or that only one little point o
+ f one hand should touch the screen at a time. They rely on trial and err
+ or and cues from the app. This session will cover intuitive gestures, in
+ teractivity cues, and element placement, as well as legal considerations
+  for children's apps.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T174500
+DTSTART;TZID=US/Pacific:20140312T171500
+DTSTAMP:20140310T213245
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32664
+UID:http://fluentconf.com/fluent2014--s2014-03-12-17:15--32664
+SUMMARY:Top Overlooked Security Threats To Node.js Web Applications
+DESCRIPTION:Presented by Chetan Karande (Omgeo). If not programmed and c
+ onfigured in a security conscious manner, Node.js web applications expos
+ e attack vectors that can be exploited for severe technical and business
+  impact. In this presentation, attendees will learn about possible secur
+ ity pitfalls and walk out with a cohesive action plan to effectively add
+ ress these concerns and build resilient Node.js web applications.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T170000
+DTSTART;TZID=US/Pacific:20140312T163000
+DTSTAMP:20131120T233020
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32538
+UID:http://fluentconf.com/fluent2014--s2014-03-12-16:30--32538
+SUMMARY:Code Risk Management at Twitter
+DESCRIPTION:Presented by Andrés Ornelas (Twitter Inc). In this talk, you
+  will learn about a system we have built that quantifies and tracks the 
+ risk of files in any given codebase to empower all the levels of the org
+ anization to make informed decisions regarding code changes and accurate
+ ly evaluate the health of their projects.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T160000
+DTSTART;TZID=US/Pacific:20140313T153000
+DTSTAMP:20140210T062109
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32510
+UID:http://fluentconf.com/fluent2014--s2014-03-13-15:30--32510
+SUMMARY:Whirlwind Tour of Scalable Vector Graphics
+DESCRIPTION:Presented by Marc Grabanski (Frontend Masters). Take a whirl
+ wind tour of a the graphics format that looks as good on small devices a
+ s it does on high resolution (retina) and large displays. We'll take a l
+ ook at much of the SVG API as well as how to interact with vector graphi
+ cs through the use of transforms, transitions, matrices and JavaScript l
+ ibraries such as RaphaelJS and D3.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T164500
+DTSTART;TZID=US/Pacific:20140313T161500
+DTSTAMP:20131120T233747
+LOCATION:Salon 10
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32685
+UID:http://fluentconf.com/fluent2014--s2014-03-13-16:15--32685
+SUMMARY:Tools and Techniques for Securing JavaScript Applications
+DESCRIPTION:Presented by Emily Stark (Meteor Development Group). Modern 
+ applications written in JavaScript are vulnerable to many of the same at
+ tacks, like XSS and CSRF, that threaten traditional web apps.  But defen
+ ding against them requires new tools and techniques. This talk will illu
+ strate best practices for securing these apps, and introduce some of the
+  security conventions and tools we've built into Meteor, a full-stack Ja
+ vaScript framework.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T151500
+DTSTART;TZID=US/Pacific:20140311T134500
+DTSTAMP:20140312T144054
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32987
+UID:http://fluentconf.com/fluent2014--s2014-03-11-13:45--32987
+SUMMARY:Bootstrap Tutorial
+DESCRIPTION:Presented by Jen Kramer (Jen Kramer). 90-Minutes: Learn one 
+ of the hottest front-end frameworks and incorporate it into your work to
+ morrow . Learn to build a Bootstrap-based website from scratch, incorpor
+ ating the responsive grid system, utilizing out-of-the-box styling, and 
+ adding Javascript-based components.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T171500
+DTSTART;TZID=US/Pacific:20140311T154500
+DTSTAMP:20140312T164639
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32989
+UID:http://fluentconf.com/fluent2014--s2014-03-11-15:45--32989
+SUMMARY:Effective Collaboration on GitHub
+DESCRIPTION:Presented by Matthew McCullough (GitHub, Inc.), Brent Beer (
+ GitHub). Come learn ways to effectively begin using GitHub in one short 
+ sitting. Ever find a bug in some open source project and wish you could 
+ let the maintainer know how to fix it, or wonder what a fork is and how 
+ to keep yours up to date? Get up to speed and be able to participate by 
+ sending pull requests today!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T114500
+DTSTART;TZID=US/Pacific:20140313T111500
+DTSTAMP:20131120T233811
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32467
+UID:http://fluentconf.com/fluent2014--s2014-03-13-11:15--32467
+SUMMARY:Reusable Libraries for Hypermedia Clients
+DESCRIPTION:Presented by Mike Amundsen (Layer 7 Technologies). Based mat
+ erial from the book "RESTful Web APIs", this talk walks you through the 
+ creation of a great UI for a Collection+JSON media type API and then sho
+ ws how minor changes on the server are automatically handled by the clie
+ nt without rewrites or redeploys. The same library can even used for dif
+ ferent APIs with the same smooth results. Reusable libraries for hyperme
+ dia clients is a reality.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T123000
+DTSTART;TZID=US/Pacific:20140313T120000
+DTSTAMP:20131120T233843
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31783
+UID:http://fluentconf.com/fluent2014--s2014-03-13-12:00--31783
+SUMMARY:Programming Diversity
+DESCRIPTION:Presented by Ashe Dryden (Ashe Dryden Development LLC). It's
+  been scientifically proven that more diverse communities and workplaces
+  create better products and the solutions to difficult problems are more
+  complete and diverse themselves. Companies are struggling to find adequ
+ ate talent. So why do we see so few women, people of color, and LGBTQ pe
+ ople at our events and on the about pages of our websites?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T140000
+DTSTART;TZID=US/Pacific:20140313T133000
+DTSTAMP:20131120T233854
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32679
+UID:http://fluentconf.com/fluent2014--s2014-03-13-13:30--32679
+SUMMARY:Manipulating Space-Time Fabric by Rewriting Javascript AST
+DESCRIPTION:Presented by Nate Murray (Fullstack.io). Thinking procedural
+ ly is one of the hardest concepts to grasp for the beginning programmer.
+   By using a new-breed of tools we can visualize how programs run and re
+ ason about our programs in new ways.  In this talk, you will learn how t
+ o use tools like esprima to programmatically rewrite javascript and visu
+ alize the space-time fabric of javascript execution.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T144500
+DTSTART;TZID=US/Pacific:20140313T141500
+DTSTAMP:20140310T220144
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32624
+UID:http://fluentconf.com/fluent2014--s2014-03-13-14:15--32624
+SUMMARY:JavaScript as a First-Class Citizen on iOS 7
+DESCRIPTION:Presented by Kevin Whinnery (Twilio). In iOS 7, JavaScript h
+ as become a first-class citizen for iOS development.  The new JavaScript
+ Core system framework provides a bridge between JS and Objective-C code,
+  opening up the entire Cocoa Touch platform to JavaScript developers. Th
+ is talk will explore this new API, and demonstrate how developers can ta
+ ke advantage of it with a demo that uses JavaScript to drive a simple 2D
+  SpriteKit game.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T114500
+DTSTART;TZID=US/Pacific:20140312T111500
+DTSTAMP:20140312T210455
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32489
+UID:http://fluentconf.com/fluent2014--s2014-03-12-11:15--32489
+SUMMARY:Practical Workflows for ES6 Modules
+DESCRIPTION:Presented by Guy Bedford (Verve Interactive). See how to use
+  ES6 modules and syntax in browsers today, with a focus on writing truly
+  modular code. An overview of approaches will be covered, including a wo
+ rkflow for the ES6 Module Loader polyfill from development to production
+ . Finally see an overview of the JSPM loader and CDN, demonstrating some
+  of the possibilities of browser package management.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T123000
+DTSTART;TZID=US/Pacific:20140312T120000
+DTSTAMP:20140312T193212
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32348
+UID:http://fluentconf.com/fluent2014--s2014-03-12-12:00--32348
+SUMMARY:Creating 8-bit Game Music in the Browser
+DESCRIPTION:Presented by Brian Rinaldi (Telerik). 8-bit gaming is back, 
+ big time! Recreating the look and feel of an 8-bit game in the browser i
+ sn't complete without that classic 8-bit sound. In this session we'll lo
+ ok at how you can create 8-bit soundtracks in the browser using the Web 
+ Audio API and some help from a library called Band.js.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T140000
+DTSTART;TZID=US/Pacific:20140312T133000
+DTSTAMP:20131120T233202
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32629
+UID:http://fluentconf.com/fluent2014--s2014-03-12-13:30--32629
+SUMMARY:Debugging (AKA Screaming, Crying, and Raging) Your PhoneGap Apps
+DESCRIPTION:Presented by Raymond Camden (Adobe). A look at debugging tec
+ hniques (some helpful, some desperate) for PhoneGap applications.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T144500
+DTSTART;TZID=US/Pacific:20140312T141500
+DTSTAMP:20131120T233214
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32649
+UID:http://fluentconf.com/fluent2014--s2014-03-12-14:15--32649
+SUMMARY:WebCL: A Secure Solution for Accelerating Web Applications
+DESCRIPTION:Presented by Tasneem Brutch (Samsung Research America - Sili
+ con Valley), Steven Eliuk (Samsung Research America). WebCL provides por
+ table, efficient, secure and high performance acceleration for compute i
+ ntensive applications, by defining JS APIs for parallelization, with Ope
+ nCL support for heterogeneous multicore devices, including but not limit
+ ed to CPUs and GPUs. WebCL defines a JS API with a binding to the underl
+ ying C-99 based OpenCL API.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T153000
+DTSTART;TZID=US/Pacific:20140312T150000
+DTSTAMP:20131120T233221
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32332
+UID:http://fluentconf.com/fluent2014--s2014-03-12-15:00--32332
+SUMMARY:JavaScript ♥ Unicode
+DESCRIPTION:Presented by Mathias Bynens (Qiwi). In this presentation we’
+ ll take a look at the various ways JavaScript relies on Unicode, what th
+ e consequences are for JavaScript developers wishing to support full Uni
+ code in their apps, and how ECMAScript 6 will make our lives a bit easie
+ r in this regard.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T174500
+DTSTART;TZID=US/Pacific:20140312T171500
+DTSTAMP:20140310T213245
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32476
+UID:http://fluentconf.com/fluent2014--s2014-03-12-17:15--32476
+SUMMARY:6 Bottles of RUM: Surprising Stories of Mobile Behavior in the R
+ eal World
+DESCRIPTION:Presented by Peter McLachlan (Mobify). Real world measuremen
+ t at scale is the only reliable way for web engineers to understand the 
+ performance behaviour of routine techniques, considered to be best pract
+ ices in desktop web development, on smartphones running on cellular data
+  networks. In this talk we will review common performance memes and eval
+ uate them in the context of real world mobile performance.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T170000
+DTSTART;TZID=US/Pacific:20140312T163000
+DTSTAMP:20131121T010359
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33095
+UID:http://fluentconf.com/fluent2014--s2014-03-12-16:30--33095
+SUMMARY:Feature Branches as an Art
+DESCRIPTION:Presented by Matthew McCullough (GitHub, Inc.), Brent Beer (
+ GitHub). Building a feature branch is an art. You want it to communicate
+  as much as possible and be as orderly as possible for both the recipien
+ t and future reviewers. Learn how to polish a feature branch to a mirror
+ -like shine by using a powerful combination of cherry pick and interacti
+ ve rebase to put all your commits in the right place.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T160000
+DTSTART;TZID=US/Pacific:20140313T153000
+DTSTAMP:20131122T030426
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31698
+UID:http://fluentconf.com/fluent2014--s2014-03-13-15:30--31698
+SUMMARY:Leaflet, Node.JS, and MongoDB for a easy and fun web mapping exp
+ erience
+DESCRIPTION:Presented by Steven Citron-Pousty (Red Hat OpenShift). You h
+ ave seen the stuff that FourSquare has done with spatial and you want so
+ me of that hotness for your app. Well this session will give you all the
+  tools you need. We will combine MongoDB, Node.JS, and Leaflet to create
+  full mapping application. When you go home you will be able to amaze yo
+ ur friends and supervisors with some spatial magic goodness you can cont
+ rol.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T164500
+DTSTART;TZID=US/Pacific:20140313T161500
+DTSTAMP:20140310T220314
+LOCATION:Salon 14
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32856
+UID:http://fluentconf.com/fluent2014--s2014-03-13-16:15--32856
+SUMMARY:Writing Real Time Web Apps
+DESCRIPTION:Presented by Wesley Hales (Shape Security). This is not anot
+ her session using Node and Socketio to demonstrate sending an receiving 
+ real time data. This presentation will cover what it takes to stand up p
+ roduction ready WebSocket clients and how to manage and gracefully degra
+ de for non-supporting browsers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T180000
+DTSTART;TZID=US/Pacific:20140311T090000
+DTSTAMP:20131209T220347
+LOCATION:Salon 5
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33084
+UID:http://fluentconf.com/fluent2014--s2014-03-11-09:00--33084
+SUMMARY:Web Platform Doc Sprint
+DESCRIPTION:Join like-minded contributors and help to document the web p
+ latform and improve the WebPlatform.org user experience.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T114500
+DTSTART;TZID=US/Pacific:20140312T111500
+DTSTAMP:20140220T214330
+LOCATION:Salon 5
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/34031
+UID:http://fluentconf.com/fluent2014--s2014-03-12-11:15--34031
+SUMMARY:Big Data is the Next Application Platform
+DESCRIPTION:Presented by Todd Papaioannou (Splunk). Todd Papaioannou, CT
+ O, Splunk, will discuss how Splunk software, including Splunk Enterprise
+  and Hunk, provide developers with a robust and familiar development exp
+ erience for working with big data.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T123000
+DTSTART;TZID=US/Pacific:20140312T120000
+DTSTAMP:20140312T190839
+LOCATION:Salon 5
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35019
+UID:http://fluentconf.com/fluent2014--s2014-03-12-12:00--35019
+SUMMARY:Measuring App Performance in the Browser
+DESCRIPTION:Presented by Nathan Taggart (New Relic, Inc). During this se
+ ssion discover the ways you can impact the application performance for y
+ our end user - pin pointing time spent within layers of the application,
+  and end user demographics through geography, browser types, and page vi
+ ews. In addition to the application visibility we will be showing you ho
+ w to dive into the time being spent within AJAX as well as the impact of
+  JavaScript errors.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T144500
+DTSTART;TZID=US/Pacific:20140312T141500
+DTSTAMP:20140224T191556
+LOCATION:Salon 5
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35449
+UID:http://fluentconf.com/fluent2014--s2014-03-12-14:15--35449
+SUMMARY:Building Customer Applications Using the Salesforce1 Platform AP
+ Is
+DESCRIPTION:Presented by Wade Wegner (salesforce.com). Behind every app,
+  every device, and every connection, is a customer. Using the Salesforce
+ 1 Platform there's no limit to what you can build for your customers. In
+  this talk Wade Wegner, Senior Director at salesforce.com, will demonstr
+ ate how to build your own applications using the Salesforce1 APIs. Heavy
+  in code, light in slides, you'll leave ready to build your own applicat
+ ions on Salesforce1.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T153000
+DTSTART;TZID=US/Pacific:20140312T150000
+DTSTAMP:20140304T183212
+LOCATION:Salon 5
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/34179
+UID:http://fluentconf.com/fluent2014--s2014-03-12-15:00--34179
+SUMMARY:Using BladeRunnerJS to build front-end JavaScript apps that scal
+ e
+DESCRIPTION:Presented by Phil Leggetter (Caplin Systems Ltd). Developing
+  large apps is difficult. Ensuring that code is consistent, well structu
+ red, tested and has an architecture that encourages enhancement and main
+ tainability is essential. But, how do you achieve this when building HTM
+ L5 single page apps? In this talk you'll learn the main concepts to appl
+ y when building a front-end app that scales and how BladeRunnerJS can su
+ pport the development process.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T114500
+DTSTART;TZID=US/Pacific:20140312T111500
+DTSTAMP:20140226T185223
+LOCATION:Salon 6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35071
+UID:http://fluentconf.com/fluent2014--s2014-03-12-11:15--35071
+SUMMARY:Closing the Web Platform Gap with Native
+DESCRIPTION:Presented by Moh Haghighat (Intel). We present some exciting
+  results from Intel’s ongoing joint work with Google & Mozilla on bringi
+ ng SIMD to JavaScript, enabling development of high performance web apps
+  including game engines and apps that require efficient image/video/spee
+ ch processing. We also cover the portable Crosswalk HTML5 runtime and In
+ tel XDK that lowers the development costs of web and hybrid apps for maj
+ or app stores.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T144500
+DTSTART;TZID=US/Pacific:20140312T141500
+DTSTAMP:20140226T185454
+LOCATION:Salon 6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35365
+UID:http://fluentconf.com/fluent2014--s2014-03-12-14:15--35365
+SUMMARY:Speed and Magic Sharding
+DESCRIPTION:Presented by Jesse Noller (Rackspace). Rackspace Performance
+  Cloud Servers
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T153000
+DTSTART;TZID=US/Pacific:20140312T150000
+DTSTAMP:20140311T232544
+LOCATION:Salon 6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35515
+UID:http://fluentconf.com/fluent2014--s2014-03-12-15:00--35515
+SUMMARY:The Perception of Speed
+DESCRIPTION:Presented by Steve Souders (Fastly). Which would you rather 
+ have: a website that's fast or a website that's perceived as fast? The a
+ nswer is "Both!" The list of performance best practices is long and well
+  known, but there's been less focus on the user's perception of speed. I
+ n this presentation Steve Souders provides examples of how the perceptio
+ n of speed is completely independent of actual speed, and techniques for
+  leveraging.....
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T170000
+DTSTART;TZID=US/Pacific:20140312T163000
+DTSTAMP:20140304T183647
+LOCATION:Salon 6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/34957
+UID:http://fluentconf.com/fluent2014--s2014-03-12-16:30--34957
+SUMMARY:Continuous Integration in JavaScript
+DESCRIPTION:Presented by Rob Richardson (GoDaddy). JavaScript has come o
+ f age, and with it, the maturity of the software development lifecycle. 
+ No matter the scale or publish platform for your app, you'll need a cons
+ istent build. We'll discuss standard CI best practices and techniques, a
+ nd walk through two approaches to Continuous Integration in JavaScript: 
+ Travis CI and gulp.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T140000
+DTSTART;TZID=US/Pacific:20140312T133000
+DTSTAMP:20140307T183214
+LOCATION:Salon 6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33142
+UID:http://fluentconf.com/fluent2014--s2014-03-12-13:30--33142
+SUMMARY:Speed Networking
+DESCRIPTION:If one of your goals at Fluent is to meet new people, this s
+ ession will jumpstart your networking with other attendees. Bring your b
+ usiness cards and prepare a minute of patter about yourself, your projec
+ ts, and your interests. You’ll exchange cards and information with a new
+  attendee every two minutes.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T200000
+DTSTART;TZID=US/Pacific:20140312T190000
+DTSTAMP:20140311T172958
+LOCATION:Salon 5/6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35429
+UID:http://fluentconf.com/fluent2014--s2014-03-12-19:00--35429
+SUMMARY:FluentConf Survivor Challenge
+DESCRIPTION:The FluentConf Survivor Challenge will take the best coders 
+ at the conference and allow them to compete for prizes, fame, and glory.
+  The competition is based on the Twilio API, and Digital Ocean’s cloud p
+ latform.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T123000
+DTSTART;TZID=US/Pacific:20140313T120000
+DTSTAMP:20140312T210557
+LOCATION:Salon 5/6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35494
+UID:http://fluentconf.com/fluent2014--s2014-03-13-12:00--35494
+SUMMARY:Building Ambitious Web Applications with Ember.js
+DESCRIPTION:Presented by Michael Jackson (HUM). Ember.js is an exception
+ ally powerful and exciting technology for building rich, native-feeling 
+ experiences on the web. It combines some of the best ideas from classic 
+ UI frameworks like Cocoa and UIKit with cutting-edge HTML 5 standards li
+ ke web components.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T144500
+DTSTART;TZID=US/Pacific:20140313T141500
+DTSTAMP:20140312T210604
+LOCATION:Salon 5/6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35457
+UID:http://fluentconf.com/fluent2014--s2014-03-13-14:15--35457
+SUMMARY:JavaScript and Embedded Devices
+DESCRIPTION:Presented by Jon McKay (Technical Machine), Tim Ryan (Techni
+ cal.io). The co-founders of Technical Machine talk about what the future
+  has in store for the developer experience of embedded devices and the s
+ oftware architecture behind their JavaScript-powered microcontroller, Te
+ ssel.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T160000
+DTSTART;TZID=US/Pacific:20140313T153000
+DTSTAMP:20140312T210614
+LOCATION:Salon 5/6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35500
+UID:http://fluentconf.com/fluent2014--s2014-03-13-15:30--35500
+SUMMARY:JavaScript, Linux and Open Hardware: A Recipe for Rapid Internet
+  Devices
+DESCRIPTION:Presented by Jason Kridner (Texas Instruments). An affordabl
+ e open hardware platform provides entrepreneurial software developers an
+  easy path for wrapping their services with customized and dedicated dev
+ ices to sell as consumer or industrial appliances.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T164500
+DTSTART;TZID=US/Pacific:20140313T161500
+DTSTAMP:20140312T210618
+LOCATION:Salon 5/6
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35517
+UID:http://fluentconf.com/fluent2014--s2014-03-13-16:15--35517
+SUMMARY:GSS - Layouts Not Possible Even with Tomorrow's CSS Using Polyfi
+ lls from the Future
+DESCRIPTION:Presented by Dan Tocchini (The Grid). Web developers are exp
+ ected to build increasingly sophisticated UIs faster, cheaper, with tool
+ s that have not evolved with the times. Why is the trivial task of cente
+ ring an element with CSS so obtusely complex ?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T140000
+DTSTART;TZID=US/Pacific:20140313T133000
+DTSTAMP:20140307T220158
+LOCATION:Community Lounge
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35435
+UID:http://fluentconf.com/fluent2014--s2014-03-13-13:30--35435
+SUMMARY:Ember.js Flock
+DESCRIPTION:Fluent's Flocks are informal get togethers organized around 
+ specific topics and attended by experts chosen by O'Reilly as well as re
+ gular developers and evangelists. There's no need to sign up in advance,
+  just show up in the Community Lounge at the scheduled time to join the 
+ conversation and chat with others interested in the topic.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T140000
+DTSTART;TZID=US/Pacific:20140312T133000
+DTSTAMP:20140310T190151
+LOCATION:Community Lounge
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35434
+UID:http://fluentconf.com/fluent2014--s2014-03-12-13:30--35434
+SUMMARY:Web Performance Flock
+DESCRIPTION:Fluent's Flocks are informal get togethers organized around 
+ specific topics and attended by experts chosen by O'Reilly as well as re
+ gular developers and evangelists. There's no need to sign up in advance,
+  just show up in the Community Lounge at the scheduled time to join the 
+ conversation and chat with others interested in the topic.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T174500
+DTSTART;TZID=US/Pacific:20140312T163000
+DTSTAMP:20140310T190430
+LOCATION:Community Lounge
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35433
+UID:http://fluentconf.com/fluent2014--s2014-03-12-16:30--35433
+SUMMARY:Angular Flock
+DESCRIPTION:Fluent's Flocks are informal get togethers organized around 
+ specific topics and attended by experts chosen by O'Reilly as well as re
+ gular developers and evangelists. There's no need to sign up in advance,
+  just show up in the Community Lounge at the scheduled time to join the 
+ conversation and chat with others interested in the topic.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T133000
+DTSTART;TZID=US/Pacific:20140313T111500
+DTSTAMP:20140306T202134
+LOCATION:Community Lounge
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35474
+UID:http://fluentconf.com/fluent2014--s2014-03-13-11:15--35474
+SUMMARY:Open Community Lounge
+DESCRIPTION:Take a breather in the Community Lounge (sponsored by Google
+ ) to gather with other brilliant minds, hack on your latest project, or 
+ just get a break from the day's sessions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T164500
+DTSTART;TZID=US/Pacific:20140313T140000
+DTSTAMP:20140306T202051
+LOCATION:Community Lounge
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35475
+UID:http://fluentconf.com/fluent2014--s2014-03-13-14:00--35475
+SUMMARY:Open Community Lounge
+DESCRIPTION:Take a breather in the Community Lounge (sponsored by Google
+ ) to gather with other brilliant minds, hack on your latest project, or 
+ just get a break from the day's sessions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T133000
+DTSTART;TZID=US/Pacific:20140312T111500
+DTSTAMP:20140306T201724
+LOCATION:Community Lounge
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35476
+UID:http://fluentconf.com/fluent2014--s2014-03-12-11:15--35476
+SUMMARY:Open Community Lounge
+DESCRIPTION:Take a breather in the Community Lounge (sponsored by Google
+ ) to gather with other brilliant minds, hack on your latest project, or 
+ just get a break from the day's sessions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T163000
+DTSTART;TZID=US/Pacific:20140312T140000
+DTSTAMP:20140306T201629
+LOCATION:Community Lounge
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35477
+UID:http://fluentconf.com/fluent2014--s2014-03-12-14:00--35477
+SUMMARY:Open Community Lounge
+DESCRIPTION:Take a breather in the Community Lounge (sponsored by Google
+ ) to gather with other brilliant minds, hack on your latest project, or 
+ just get a break from the day's sessions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T190000
+DTSTART;TZID=US/Pacific:20140312T174500
+DTSTAMP:20140305T151635
+LOCATION:Salon 7
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32920
+UID:http://fluentconf.com/fluent2014--s2014-03-12-17:45--32920
+SUMMARY:Exhibit Hall Reception
+DESCRIPTION:Grab a drink, mingle with fellow attendees, and see the late
+ st in JavaScript and web platform technologies and products from leading
+  companies. The Reception happens in the Exhibit Hall on  Wednesday even
+ ing after afternoon sessions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T164500
+DTSTART;TZID=US/Pacific:20140312T104500
+DTSTAMP:20140228T172515
+LOCATION:Salon 7
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33143
+UID:http://fluentconf.com/fluent2014--s2014-03-12-10:45--33143
+SUMMARY:Exhibit Hall + Hardware Showcase
+DESCRIPTION:In addition to the exhibitors showcasing their latest produc
+ ts and services, the Exhibit Hall on Wednesday will also feature circuit
+  board makers BeagleBoard and Tessel. Stop by their booths and see how J
+ avascript can work with the physical world.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T153000
+DTSTART;TZID=US/Pacific:20140313T104500
+DTSTAMP:20131203T193051
+LOCATION:Salon 7
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33144
+UID:http://fluentconf.com/fluent2014--s2014-03-13-10:45--33144
+SUMMARY:Exhibit Hall + Nonprofit Pavilion
+DESCRIPTION:We're hosting a Nonprofit Pavilion on Thursday in the Exhibi
+ t Hall, highlighting some nonprofit organizations doing great work with 
+ web technologies and the local community.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T090500
+DTSTART;TZID=US/Pacific:20140312T090000
+DTSTAMP:20131212T182317
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33428
+UID:http://fluentconf.com/fluent2014--s2014-03-12-09:00--33428
+SUMMARY:Wednesday Keynote Welcome
+DESCRIPTION:Presented by Simon St. Laurent (O'Reilly Media, Inc.), Peter
+  Cooper (Cooper Press). Fluent Program Chairs, Simon St. Laurent and Pet
+ er Cooper, welcome you to the first day of keynotes.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T092500
+DTSTART;TZID=US/Pacific:20140312T090500
+DTSTAMP:20140312T210706
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33106
+UID:http://fluentconf.com/fluent2014--s2014-03-12-09:05--33106
+SUMMARY:JavaScript: Taking both the High and the Low Roads
+DESCRIPTION:Presented by Brendan Eich (Mozilla). I'll update everyone on
+  ES6, ES7, and how JS is evolving quickly under a fairly balanced and co
+ mpetitive/cooperative browser market structure, and the consequent rise 
+ of the lead web developers and github.com.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T093500
+DTSTART;TZID=US/Pacific:20140312T092500
+DTSTAMP:20140312T210719
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35451
+UID:http://fluentconf.com/fluent2014--s2014-03-12-09:25--35451
+SUMMARY:Reading, Writing, Arithmetic,... and JavaScript?
+DESCRIPTION:Presented by Pamela Fox (Khan Academy). What if everyone lea
+ rnt to program in middle school? How would that change the way that they
+  learnt other subjects? How would it affect their personal life? Their c
+ areer? It's kind of a crazy idea, but it might be crazy in a good way. I
+ n this talk, I'll lay down my ideas for how this could happen and what i
+ t might mean, based on my experience teaching programming online on Khan
+  Academy.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T100000
+DTSTART;TZID=US/Pacific:20140312T093500
+DTSTAMP:20140312T210850
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/31933
+UID:http://fluentconf.com/fluent2014--s2014-03-12-09:35--31933
+SUMMARY:Virtual Machines, JavaScript and Assembler
+DESCRIPTION:Presented by Scott Hanselman (Microsoft). How does the perva
+ siveness of JavaScript on the client change how we architect application
+ s? We can create hundreds virtual machines in the cloud, but we are usin
+ g the millions of visual machines that visit our sites every day?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T101000
+DTSTART;TZID=US/Pacific:20140312T100000
+DTSTAMP:20140312T173403
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35507
+UID:http://fluentconf.com/fluent2014--s2014-03-12-10:00--35507
+SUMMARY:O'Reilly Web Platform Award Winners Announced
+DESCRIPTION:The winners of the first annual O'Reilly Web Platform Awards
+  are announced.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T102500
+DTSTART;TZID=US/Pacific:20140312T101000
+DTSTAMP:20140312T210747
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33094
+UID:http://fluentconf.com/fluent2014--s2014-03-12-10:10--33094
+SUMMARY:The Humble Border-Radius
+DESCRIPTION:Presented by Lea Verou (Independent). Lea Verou, Developer R
+ elations, W3C
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T104000
+DTSTART;TZID=US/Pacific:20140312T102500
+DTSTAMP:20140312T210801
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33107
+UID:http://fluentconf.com/fluent2014--s2014-03-12-10:25--33107
+SUMMARY:Speed, Performance, and Human Perception
+DESCRIPTION:Presented by Ilya Grigorik (Google). Performance is a featur
+ e, but what exactly is performance? Should UX be part of it and are ther
+ e design principles that will help us deliver experiences that "feel fas
+ ter"? What does it mean for a site to "feel fast" anyway and what is fas
+ t enough?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T091000
+DTSTART;TZID=US/Pacific:20140313T090000
+DTSTAMP:20131217T182300
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33498
+UID:http://fluentconf.com/fluent2014--s2014-03-13-09:00--33498
+SUMMARY:Thursday Keynote Welcome
+DESCRIPTION:Presented by Simon St. Laurent (O'Reilly Media, Inc.), Peter
+  Cooper (Cooper Press). Fluent Program Chairs, Simon St. Laurent and Pet
+ er Cooper, welcome you to the second day of keynotes.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T093000
+DTSTART;TZID=US/Pacific:20140313T091000
+DTSTAMP:20131217T182800
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32558
+UID:http://fluentconf.com/fluent2014--s2014-03-13-09:10--32558
+SUMMARY:Keynote with Paul Irish
+DESCRIPTION:Presented by Paul Irish (Google). Paul Irish, Chrome Develop
+ er Advocate, Google
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T094000
+DTSTART;TZID=US/Pacific:20140313T093000
+DTSTAMP:20140123T225244
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33494
+UID:http://fluentconf.com/fluent2014--s2014-03-13-09:30--33494
+SUMMARY:Keynote with Jen Simmons
+DESCRIPTION:Presented by Jen Simmons (Jen Simmons Design). Jen Simmons, 
+ Designer, Jen Simmons Design
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T094500
+DTSTART;TZID=US/Pacific:20140313T094000
+DTSTAMP:20140306T002237
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/35403
+UID:http://fluentconf.com/fluent2014--s2014-03-13-09:40--35403
+SUMMARY:Understand Your User's Experience
+DESCRIPTION:Presented by Christine Sotelo (New Relic, Inc.). Front-end p
+ erformance bottlenecks and errors leave a lasting impression on your cus
+ tomers. This is not the impression you want. Christine will show you how
+  to quickly identify problems in your front-end code and make sure your 
+ users stay happy and keep visiting your web app.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T095500
+DTSTART;TZID=US/Pacific:20140313T094500
+DTSTAMP:20131217T183848
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33493
+UID:http://fluentconf.com/fluent2014--s2014-03-13-09:45--33493
+SUMMARY:Beyond Pushing "Play": Interactive, Data-driven Videos for a Web
+ -based World
+DESCRIPTION:Presented by Susan E. McGregor (Columbia University). It's t
+ ime for video narratives to truly be of the web. Video shouldn't just be
+  a one-way stream: it should create a dynamic, interactive, responsive v
+ isual narratives that leverage all the resources of the web, whether tho
+ se are simply text, or complex visualizations or localized data. Data Do
+ cs, an experimental, open-source video platform, hopes to support and in
+ spire a new iteration of....
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T100500
+DTSTART;TZID=US/Pacific:20140313T095500
+DTSTAMP:20131217T183609
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33141
+UID:http://fluentconf.com/fluent2014--s2014-03-13-09:55--33141
+SUMMARY:The Goodness of JavaScript
+DESCRIPTION:Presented by Aaron Frost (Domo), Dave Geddes (Domo). Across 
+ the board, the JavaScript community is thriving. This last year has seen
+  unprecedented levels of adoption. Dave and Aaron will take a look at so
+ me of the reasons for the success of the JavaScript community, while als
+ o exploring some of the painful bits along the way.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T101500
+DTSTART;TZID=US/Pacific:20140313T100500
+DTSTAMP:20140307T232755
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33497
+UID:http://fluentconf.com/fluent2014--s2014-03-13-10:05--33497
+SUMMARY:Fluent Hardware Showcase
+DESCRIPTION:The Fluent Hardware Showcase is discussed.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T103500
+DTSTART;TZID=US/Pacific:20140313T101500
+DTSTAMP:20140207T190823
+LOCATION:Salon 8/9
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/34996
+UID:http://fluentconf.com/fluent2014--s2014-03-13-10:15--34996
+SUMMARY:Keynote with Yehuda Katz and Tom Dale
+DESCRIPTION:Presented by Yehuda Katz (Tilde Inc), Tom Dale (Tilde, Inc.)
+ . Yehuda Katz and Tom Dale, Co-founders, Tilde Inc.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140312T133000
+DTSTART;TZID=US/Pacific:20140312T123000
+DTSTAMP:20140312T185936
+LOCATION:2nd Floor Atrium / Golden Gate Ballroom
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32921
+UID:http://fluentconf.com/fluent2014--s2014-03-12-12:30--32921
+SUMMARY:Lunch / Birds of a Feather (BoF) Sessions
+DESCRIPTION:Have a particular topic you'd like to discuss with other Flu
+ ent attendees over lunch on Wednesday? BoFs are a great way to informall
+ y connect with others to share ideas, advice, and experiences.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T133000
+DTSTART;TZID=US/Pacific:20140313T123000
+DTSTAMP:20140312T164553
+LOCATION:2nd Floor Atrium / Golden Gate Ballroom
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/32922
+UID:http://fluentconf.com/fluent2014--s2014-03-13-12:30--32922
+SUMMARY:Lunch / Birds of a Feather (BoF) Sessions
+DESCRIPTION:Have a particular topic you'd like to discuss with other Flu
+ ent attendees over lunch on Thursday? BoFs are a great way to informally
+  connect with others to share ideas, advice, and experiences.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140313T180000
+DTSTART;TZID=US/Pacific:20140313T170000
+DTSTAMP:20131120T211048
+LOCATION:2nd Floor Atrium Restaurant
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33083
+UID:http://fluentconf.com/fluent2014--s2014-03-13-17:00--33083
+SUMMARY:Closing Reception
+DESCRIPTION:Join us at the hotel bar in the San Francisco Marriott Marqu
+ is for a drink and one last chance to connect in-person with fellow deve
+ lopers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20140311T190000
+DTSTART;TZID=US/Pacific:20140311T171500
+DTSTAMP:20140312T152605
+LOCATION:Nob Hill B
+URL:http://fluentconf.com/fluent2014/public/schedule/detail/33401
+UID:http://fluentconf.com/fluent2014--s2014-03-11-17:15--33401
+SUMMARY:Women's Communities Meetup
+DESCRIPTION:If you're a woman looking for like-minded communities to joi
+ n, c'mon down to our meetup on Tuesday evening before Ignite Fluent. In 
+ addition to great networking, you’ll hear lightning talks from represent
+ atives of groups, companies, and projects that support diversity in the 
+ technology community.
+END:VEVENT
+END:VCALENDAR

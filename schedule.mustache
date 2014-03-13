@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+	<title>Right now at Fluent</title>
+	<style type="text/css">
+		body {
+			font-family: monospace;
+			max-width: 600px;
+			margin: auto;
+			padding: 0 5px;
+		}
+		a {
+			color: #000;
+		}
+		h1 {
+			text-align: center;
+			color: #00B3B2;
+		}
+		p, h2 {
+			margin: 5px 0;
+		}
+		.room {
+			text-align: right;
+		}
+		div {
+			padding-left: 10px;
+			display: inline-block;
+			width: 100%;
+			box-sizing: border-box;
+			margin: 5px 0;
+			border-bottom: #000 solid 1px;
+			border-left: #000 solid 12px;
+		}
+		.time-0 { border-color: #00B3B2; }
+		.time-1 { border-color: #670200; }
+		.time-2 { border-color: #C08200; }
+		.time-3 { border-color: #6CCA20; }
+		.time-4 { border-color: #572DCA; }
+	</style>
+</head>
+<body>
+	<h1>Right now at Fluent ({{ current_time }})</h1>
+	{{# events }}
+		<div class="{{ time_class }}"> 
+			<h2><a href="{{ url }}">{{ title }}</a></h2>
+			<p>{{ description }}</p>
+			<p class="room">{{ start_time }} in {{ room }}</p>
+		</div>
+	{{/ events }}
+</body>
+</html>
