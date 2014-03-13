@@ -19,6 +19,7 @@ app.use(logfmt.requestLogger());
 app.get('/', function(req, res) {
 
   var now = moment().zone(7);
+  var tpl = fs.readFileSync("schedule.mustache", "utf8");
 //  var now = moment([2014,2,13,11,36]).zone(7);
 
   function isComingUp(e) {
@@ -46,7 +47,6 @@ app.get('/', function(req, res) {
     }
   });
 
-  var tpl = fs.readFileSync("schedule.mustache", "utf8");
   var html = mustache.to_html(tpl, { events: events, current_time: now.format('LT')});
   res.send(html);
   
