@@ -42,6 +42,8 @@ app.get('/', function(req, res) {
       description: e.description,
       title: e.summary,
       url: e.url,
+      this_url: "fluent",
+      event_title: "Fluent",
       time_class: "time-" + times.indexOf(timeId(e)),
     }
   });

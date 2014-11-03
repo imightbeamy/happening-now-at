@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta name="viewport" content="height=device-height,width=device-width">
-	<title>Right now at Fluent</title>
+	<title>Right now at {{event_title}}</title>
 	<style type="text/css">
 		body {
 			font-family: monospace;
@@ -52,9 +52,9 @@
 	</style>
 </head>
 <body>
-	<h1>Right now at Fluent <span>({{ current_time }})</span></h1>
+    <h1>Right now at {{event_title}} <span>({{ current_time }})</span></h1>
 	{{# events }}
-		<div class="{{ time_class }}"> 
+		<div class="{{ time_class }}">
 			<h2><a href="{{ url }}">{{ title }}</a></h2>
 			<p>{{ description }}</p>
 			<p class="room">{{ start_time }} - {{ end_time }} in {{ room }}</p>
@@ -64,10 +64,7 @@
 		<div><h2>Nothing going on right now :(</h2></div>
 	{{/ events }}
 	<p class="share">
-		<a href="http://right-now-at-fluent.herokuapp.com/">
-			Share the love!
-			<img src="http://qr.papers.ch/gen.php?data=http%3A//right-now-at-fluent.herokuapp.com/" />
-		</a>
+        <a href="http://www.happeningnow.at/{{this_url}}">Share the love!</a>
 		By <a href="http://amyciavolino.com/">Amy Ciavolino</a>,
 		<a href="https://github.com/imightbeamy/right-now-at">Code on GitHub</a>
 	</p>
