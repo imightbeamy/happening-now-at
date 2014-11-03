@@ -4,7 +4,7 @@ var ical = require('ical');
 var _ = require('underscore');
 var mustache = require('mustache');
 var moment = require('moment');
-var fs = require('fs'); 
+var fs = require('fs');
 var express = require("express");
 var logfmt = require("logfmt");
 
@@ -24,7 +24,7 @@ function timeId(e) {
 }
 
 var tpl = fs.readFileSync("schedule.mustache", "utf8"),
-    all_events = ical.parseFile('schedule.ics'),
+    all_events = ical.parseFile('schedules/fluent.ics'),
     app = express();
 
 app.use(logfmt.requestLogger());
@@ -47,7 +47,7 @@ app.get('/', function(req, res) {
   });
 
   var html = mustache.to_html(tpl, {
-    events: events, 
+    events: events,
     current_time: now.format('LT')
   });
 
